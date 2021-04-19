@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tiff-Lynn
+- 👋 Hi, I’m @Tiff-Lin
 - 👀 I’m interested in front-end dev/ data analysis.
 - 🌱 I’m currently learning basic web design on freecodecamp.
 - 💞️ I’m looking to collaborate on any projects.
